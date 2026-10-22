@@ -4,6 +4,14 @@ Bahasa: **Indonesia** | [English](README.en.md)
 
 Overlay lirik untuk lagu yang sedang diputar di Spotify. Dibuat dengan Python dan Tkinter, dengan panel gelap yang bisa digeser dan diubah ukurannya.
 
+## Preview
+
+![Preview animasi floating lyrics dengan highlight karaoke](docs/images/floating-lyrics-preview.gif)
+
+Animasi tampilan aplikasi dengan teks contoh. Highlight bergerak per kata: kata yang sudah dinyanyikan berwarna putih, kata aktif hijau, dan kata berikutnya abu-abu. Panel melayang di atas aplikasi lain dan bisa digeser atau diubah ukurannya.
+
+[Lihat screenshot statis](docs/images/floating-lyrics-preview.png).
+
 ## Fitur
 
 - Lirik sinkron per baris dari [LRCLIB](https://lrclib.net/).

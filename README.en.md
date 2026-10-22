@@ -4,6 +4,14 @@ Language: [Indonesia](README.md) | **English**
 
 A lyrics overlay for the song currently playing on Spotify. Built with Python and Tkinter, with a dark panel that you can move and resize.
 
+## Preview
+
+![Animated floating lyrics preview with karaoke highlighting](docs/images/floating-lyrics-preview.gif)
+
+An animated application preview using sample text. Highlighting moves word by word: sung words appear in white, the active word in green, and upcoming words in gray. The panel floats above other applications and can be moved or resized.
+
+[View the static screenshot](docs/images/floating-lyrics-preview.png).
+
 ## Features
 
 - Line-synced lyrics from [LRCLIB](https://lrclib.net/).
