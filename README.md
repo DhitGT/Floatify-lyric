@@ -1,5 +1,7 @@
 # Spotify Floating Lyrics
 
+Bahasa: **Indonesia** | [English](README.en.md)
+
 Overlay lirik untuk lagu yang sedang diputar di Spotify. Dibuat dengan Python dan Tkinter, dengan panel gelap yang bisa digeser dan diubah ukurannya.
 
 ## Fitur
