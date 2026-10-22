@@ -125,4 +125,8 @@ build_exe.bat         # Windows executable build
 
 For contribution instructions and code checks, see [CONTRIBUTING.md](CONTRIBUTING.md) (Indonesian).
 
+## License
+
+This project's code is licensed under the [MIT License](LICENSE). This license does not cover lyrics or content from third-party services.
+
 This project is not affiliated with Spotify or LRCLIB.
