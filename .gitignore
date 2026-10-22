@@ -1,0 +1,17 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.spec
+.spotify_cache
+.spotify_cache.*
+config.ini
+.env
+.env.*
+!.env.example
+*.py[cod]
+*.log
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.idea/
